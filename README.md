@@ -39,9 +39,30 @@ https://euphonious-sprinkles-202e82.netlify.app/
 
 ## Author
 
-ND FILMS PHOTOGRAPHY
+**Developed by Amit Pawar**
 
-Professional Photography & Cinematic Film Studio
+This billing and invoice management system was designed and developed by Amit Pawar for **ND FILMS PHOTOGRAPHY**.
+
+### About ND FILMS PHOTOGRAPHY
+
+**ND FILMS PHOTOGRAPHY** is a professional photography and cinematography studio founded by **Nihar Patil**.
+
+The studio specializes in:
+
+* Wedding Photography
+* Pre-Wedding Shoots
+* Cinematic Wedding Films
+* Event Photography
+* Birthday & Engagement Coverage
+* Drone Photography & Videography
+* Professional Photo Albums
+* Creative Photo & Video Editing
+
+### Credits
+
+* Studio Owner: **Nihar Patil**
+* Studio Brand: **ND FILMS PHOTOGRAPHY**
+* Website & Billing System Developer: **Amit Pawar**
 
 ## License
 
